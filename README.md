@@ -4,7 +4,7 @@
 
 <div style="display: flex">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiterence)](https://github.com/guiterence/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiterence&show_icons=true&theme=transparent)](https://github.com/guiterence/github-readme-stats)
 
 </div>
 
