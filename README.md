@@ -1,5 +1,6 @@
 ### Hello I'm Guilherme Terence 👋
-
+backend developer and data scientist
+    
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-t-729235107/)
 
 <div style="display: flex">
